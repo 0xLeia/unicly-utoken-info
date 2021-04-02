@@ -12,10 +12,10 @@ A uToken collection appraisal is a PDF report (by a third party auditor) that es
 
 **Adding a uToken checklist**:
 - [ ] Fork the Github repository
-- [ ] Create folder with name of token smartcontact address in [_checksum format_](https://developer.trustwallet.com/add_new_asset#checksum_format) `uTokens/<token_smartcontract_address>/`.
+- [ ] Create folder with name of token smartcontact address in lowercase `uTokens/<token_smartcontract_address>/`.
 - [ ] Tell your designer that token image must be in SVG format, with max file size of 100kB.
-- [ ] Upload your logo with file named `logo.svg` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `uTokens/0xC50CF60Cee6F3F5C616F414Bd7fd38F9fe2E1eE5/logo.svg`
-- [ ] Upload your appraisal with file named `appraisal.pdf` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `uTokens/0xC50CF60Cee6F3F5C616F414Bd7fd38F9fe2E1eE5/appraisal.pdf`
+- [ ] Upload your logo with file named `logo.svg` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `uTokens/0xc50cf60cee6f3f5c616f414bd7fd38f9fe2e1ee5/logo.svg`
+- [ ] Upload your appraisal with file named `appraisal.pdf` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `uTokens/0xc50cf60cee6f3f5c616f414bd7fd38f9fe2e1ee5/appraisal.pdf`
 - [ ] Create a pull request to the main repo
 
 ## Disclaimer
