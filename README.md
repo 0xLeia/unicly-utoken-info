@@ -23,7 +23,8 @@ A uToken collection appraisal is a PDF report (by a third party auditor) that es
   "telegram": "t.me/LeiaFisherOne",
   "twitter": "twitter.com/0xLeia",
   "medium": "https://medium.com/@0xleia",
-  "discord": "discord.com/invite/uniclyNFT"
+  "discord": "discord.com/invite/uniclyNFT",
+  "website": "https://unic.ly"
 }
 ```
 - [ ] Create a pull request to the main repo
